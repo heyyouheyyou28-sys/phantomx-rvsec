@@ -44,7 +44,7 @@ Hi there! I’m **PhantomX**, a passionate cybersecurity learner focusing on **P
 ---
 
 ### 🌐 Connect  
-- 🧑‍💻 [TryHackMe Profile](https://tryhackme.com/p/heyyouheyyou28) _(add your username here)_  
+- 🧑‍💻 [TryHackMe Profile](https://tryhackme.com/p/heyyouheyyou28)  
 - 💬 [Twitter/X](https://x.com/rvsec11?s=21) _(optional)_  
 - 📂 [Main Labs Repo](https://github.com/phantomx-rvsec/heyyouheyyou28-sys)
 
