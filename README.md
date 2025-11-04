@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6BF7FF&width=435&lines=👾+Hi%2C+I'm+PhantomX;🧠+Purple+Team+Engineer+in+Training;💻+Python+%7C+Bash+%7C+Detection+Engineering;🧩+TryHackMe+Premium+Learner">
+</p>
 # phantomx-rvsec
 # 👾 PhantomX | Purple Team Engineer in Training  
 
@@ -49,6 +52,24 @@ Hi there! I’m **PhantomX**, a passionate cybersecurity learner focusing on **P
 - 📂 [Main Labs Repo](https://github.com/phantomx-rvsec/heyyouheyyou28-sys)
 
 ---
+
+---
+
+### 🧠 TryHackMe Progress  
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/heyyouheyyou28.png)  
+> TryHackMe: [tryhackme.com/p/heyyouheyyou28](https://tryhackme.com/p/heyyouheyyou28)
+
+---
+
+### ⚡️ GitHub Stats  
+![PhantomX's GitHub stats](https://github-readme-stats.vercel.app/api?username=phantomx-rvsec&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phantomx-rvsec&layout=compact&theme=radical)
+
+---
+
+### 🌐 Social  
+- X / Twitter: [@rvsec11](https://x.com/rvsec11?s=21)
+
 
 💬 *“Train like an attacker. Think like a defender.”*  
 — PhantomX 🜲
